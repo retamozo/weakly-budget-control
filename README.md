@@ -2,3 +2,5 @@
 
 The purpose of this app, at first, was to get improve my way of thinking about react's application.
 I used hooks to manage state 
+
+**TODO: enhace the scalability of app by migratting to  `Api Context`**
